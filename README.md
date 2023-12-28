@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Simeon333
-- 👀 I’m interested in cyber security 
+- 👋 Hi, I’m @Simeon333 
 - 🌱 I’m currently learning bachelor's in information technology 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me 
